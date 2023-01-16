@@ -1,0 +1,13 @@
+
+.conteudo{
+	border: 1px solid red;
+	padding: 20px;
+	margin: 20px;
+	width: 150px;
+}
+
+.conteudo2{
+    width: 150px;
+    border: 1px solid darkblue;
+	margin: 50px;
+}

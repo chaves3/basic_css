@@ -1,0 +1,157 @@
+*{
+
+	margin: 0;
+	padding: 0;
+}
+
+
+body{
+
+	font-size: 1em;
+	font-family: "Trebuchet MS" Helvetica, sans-serif;
+	background: #E9967A;
+
+}
+
+/*formatação do cabecalho*/
+#area-cabecalho{
+   
+    background-color: #000000;
+    padding: 15px;
+    text-align: center;
+    color: white;
+}
+
+.japao{
+
+	color: red;
+}
+
+
+#area-logo, #links-cabecalho{
+  
+  padding: 10px;
+
+}
+
+/*formatação dos links do menu do cabecalho*/
+
+a{
+
+	text-decoration: none;
+}
+
+a:link, a:visited{
+
+	 color: #FF0000;
+}
+
+a:hover{
+
+	text-decoration: underline;
+}
+
+
+#area-cabecalho a:link, #area-cabecalho a:visited{
+
+	color: #fff;
+	padding: 8px 12px;
+
+}
+
+#area-cabecalho a:hover{
+
+	color: red;
+	background: #fff;
+	text-decoration: none;
+}
+
+#area-corpo{
+
+	width: 920px;
+	margin: 0;
+	padding: 25px;
+
+}
+
+#area-postagem{
+   
+   width: 660px;
+   float: left;
+   padding: 5px;
+
+}
+
+#postagem{
+
+
+     padding: 20px;
+     margin-bottom: 20px;
+     background: black;
+     color: white;
+}
+
+
+
+#area-lateral{
+
+	width: 240px;
+	float: right;
+}
+
+#conteudo-lateral{
+ 
+   background: black;
+   padding: 10px;
+   margin-bottom: 20px;
+   color: white;
+
+}
+
+
+#postagem-lateral{
+
+	font-size: 0.8em;
+	padding: 5px;
+}
+
+#rodape{
+
+	clear: both;
+	text-align: center;
+	padding: 15px;
+	background: black;
+	color: white;
+}
+
+
+h1{
+
+	color:white;
+	font-size: 2.5em;
+}
+
+
+h2{
+
+  color: red;
+  padding: 5px;	
+}
+
+h3{
+
+	color: white;
+	background: red;
+	padding: 5px;
+}
+
+#data-postagem{
+
+	font-size: 0.8em;
+	border-bottom: 1px solid #f4f4f4;
+	padding-bottom: 14px;
+	margin-bottom: 10px;
+	display: block;
+
+}
+
